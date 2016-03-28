@@ -16,7 +16,7 @@ url: http://woaij007.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-about_dir: about
+#about_dir: about
 
 # Directory
 source_dir: source
