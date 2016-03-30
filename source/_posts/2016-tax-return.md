@@ -1,4 +1,4 @@
-title: 2016 Tax return
+title: 2016 Tax Return
 date: 2016-03-24 14:10:18
 tags: 
 - Tax
@@ -35,7 +35,7 @@ ALL non-resident aliens must file Form 8843, even if you did NOT earn any income
 2，(2015年的有效日＋1/3*2014年的有效日+1/6*2013年的有效日)大于183天
 特别注意，持F1签证身份的在美天数都不算有效日,除非你来美国已超过5年.(具体的可参见IRS官方发布的Publication 519)
 {% endblockquote %}
-GLACIER Tax Prep software for the preparation of U.S.
+
 ### 软件还是邮寄报税?
 International students considered non-residents for tax purposes should not use Turbo Tax, 1040.com or other similar tax preparation software programs that you see advertised on the web to file your taxes; they are intended for U.S. citizens only and do not utilize the correct tax forms for non-residents.
 
@@ -100,7 +100,7 @@ Were you subject to tax in a foreign country on any of the income shown in 1(d) 
 ### State tax forms
 
 准备加州报税需要的表格,提前准备所有W-2和1042-S的state tax return copy.我们需要填写的是540NR-Short Form/540NR-Long Form.
-`如果你收入没有超过100,000美元的话，只需要填写540NR-EZ，否则填写540NR。`
+`如果你收入没有超过100,000美元的话，只需要填写540NR-Short，否则填写540NR-Long。`
 `收入足够低的话你可以选择不报加州的州税,比方说Single的加州收入低于16,256,你可以不报州税.`具体详见2015 Nonresident or Part-Year Resident Booklet.
 
 #### 540NR-Short Form
